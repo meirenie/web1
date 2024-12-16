@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff3e0; /* Светлый фон */
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #ff9800; /* Оранжевый цвет */
+    padding: 10px 20px;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.cta {
+    background-color: #ff5722; /* Темнее оранжевый */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.teacher {
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ff9800;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
